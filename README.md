@@ -3,9 +3,12 @@
 ## Development web page from the layout
 
 <h3>Technologies</h3>
-### html
-### css (bootstrap)
-### js (owl-carousel)
+<ul>
+  <li>html</li>
+  <li>css (bootstrap)</li>
+  <li>js (owl-carousel)</li>
+</ul>
+
 
 ## 
 
