@@ -1,3 +1,12 @@
 # Gravity
-<h3>Creation of sites using html, css (bootstrap), js (owl-carousel) according to the layout.</h3>
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+## Development web page from the layout
+
+<h3>Technologies</h3>
+### html
+### css (bootstrap)
+### js (owl-carousel)
+
+## 
+
+## Development was carried out from June 1 to June 7 in 2020.
